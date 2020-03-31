@@ -1,0 +1,154 @@
+    /* font+head */
+
+    @font-face {
+        font-family: Font;
+        src: url(/Users/sthuru92/Desktop/Relatable/webpixel-bitmap.regular.otf);
+    }
+    
+    
+    
+    h1 {
+        font-family: Font;
+        font-size: 450%;
+        color: whitesmoke;
+        font-style: oblique;
+        background-color: transparent;
+        padding:2px;
+        line-height: 0em;
+        content: attr(data-text);
+        position: relative;
+        top: -42px;
+        width: calc(100% + 27px);
+        text-decoration-style: wavy;
+        text-decoration-style: wavy;
+        animation: animate 0s linear infinite;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    @keyframes animate
+    {
+        0%
+        {
+        left: -4px;
+        }
+        100%
+        {
+        left: -40px;
+        }
+        
+    
+    }
+    
+      /* navbar */
+    
+      .Nav {
+        font-family: Font;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        float: left;
+        background-color:#333;
+        display: inline;
+        overflow: hidden;
+        font-weight: bolder;
+        font-size: 25px;
+        position: fixed; top: 0; width: 100%;
+        display: flex;
+        justify-content: space-between;
+      }
+
+    }
+    .Nav li {
+            float: left;
+            display: block;
+            position: relative;
+            z-index: 500;
+            margin: 0 10px;
+    }   
+        .logo2 {
+        display: block;
+        height: 15px;
+        padding:  6px 5px;
+        color: #fff;
+        margin-left: -400 ; /* question about margins!!! */
+    
+          }
+    .Nav li a {
+                padding: 8px;
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 14px 16px;
+                border-right: 1px solid #bbb;
+                text-decoration-line: none;
+              }
+    
+    .Nav ul {
+        position: absolute;
+        left: 0;
+        display: none;
+        margin: 0 0 0 -1px;
+        padding: 0;
+        list-style: none;
+        display:inline-block;
+    
+    }
+    
+    .Nav ul li {
+        float: left;
+        border-top: 1px solid #fff;
+        width: 100%;
+        white-space: nowrap;
+      }
+    
+      .Nav ul a {
+        display: block;
+        height: 15px;
+        padding:  6px 5px;
+        color: #fff;
+        text-align: left;
+      }
+      
+      .Nav a:hover {
+        text-decoration: none;
+        background-color: #F86808;
+      }
+    
+    
+        /* box style */
+    
+      #canvas {
+          border: 2px black;
+    
+      }
+    
+    
+          
+         /* box style */
+    
+       
+    
+    /* canvas */
+    
+    #canvas {
+        border: 2px solid black;
+        background: coral;
+    }
+    
+         h2 {
+             color: blanchedalmond;
+         }
+    
+         body {
+            font-family: Font;
+            background-image: url("/Users/sthuru92/Downloads/starter-code-2/giphy.gif");
+            background-attachment: scroll;
+            background-size: 700px;
+            background-position: center;
+            background: border-box
+            background-color: rgb(19, 18, 18);
+            
+          }
+          
+         
