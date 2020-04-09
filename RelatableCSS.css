@@ -104,7 +104,7 @@ position: fixed; top: 0; width: 100%;
 display: flex;
 justify-content: space-between;
 border: 15px solid pink;
-border-image-source: url("Intothevoid.github.io/gifs/giphy-1.gif");
+border-image-source: url("./gifs/giphy-1.gif");
 border-image-slice: 40 50;
 border-image-repeat: round;
 z-index: 500
