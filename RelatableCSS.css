@@ -104,7 +104,7 @@ position: fixed; top: 0; width: 100%;
 display: flex;
 justify-content: space-between;
 border: 15px solid pink;
-border-image-source: url("./gifs/giphy2.gif");
+border-image-source: url("./giphy-1 copy.gif");
 border-image-slice: 40 50;
 border-image-repeat: round;
 z-index: 500
@@ -137,7 +137,7 @@ z-index: 500
             border-right: 1px solid #bbb;
             text-decoration-line: none;
             border: 7px solid pink;
-            border-image-source: url(".gifs/giphy-1.gif");
+            border-image-source: url("./giphy-1 copy.gif");
             border-image-slice: 30 40;
             border-image-repeat: round;
             background: linear-gradient(0deg, rgba(219, 2, 2, 0.5), rgba(0, 0, 0, 0.5));
@@ -218,7 +218,7 @@ z-index: 500
         border-radius: 12px;
         transition-duration: 0.4s;
         cursor: pointer;
-        background-image: url(".gifs/giphy-1.gif");
+        background-image: url("./giphy-1 copy.gif");
       }
       
 
@@ -288,7 +288,7 @@ div {
     text-decoration-line: none;
     font-style: italic;
     color: cornsilk;
-    background-image: url("./speech_14.png");
+    background-image: url("./giphy-1 copy.gif");
     background-size:40px;
     background-repeat: no-repeat;
 
