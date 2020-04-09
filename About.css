@@ -1,7 +1,7 @@
 html 
 { background-color: whitesmoke; 
  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
- url(/Users/sthuru92/Downloads/starter-code-2/im10.jpg);
+ url(./im10.jpg);
  opacity: 90%;
  padding: 50px;
  background-repeat: no-repeat;
