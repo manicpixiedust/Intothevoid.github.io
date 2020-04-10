@@ -104,7 +104,7 @@ position: fixed; top: 0; width: 100%;
 display: flex;
 justify-content: space-between;
 border: 15px solid pink;
-border-image-source: url("./giphy-2.gif");
+border-image-source: url("./giphy.gif");
 border-image-slice: 40 50;
 border-image-repeat: round;
 z-index: 500
@@ -288,7 +288,7 @@ div {
     text-decoration-line: none;
     font-style: italic;
     color: cornsilk;
-    background-image: url("./giphy-2.gif");
+    background-image: url("./giphy.gif");
     background-size:40px;
     background-repeat: no-repeat;
 
