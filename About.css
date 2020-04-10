@@ -70,8 +70,8 @@ h1 {
 }*/
 
 p {
-  font-family:monospace;
-  font-weight: bolder;
+  font-family:Arial;
+  font-weight: bold;
   text-rendering: geometricPrecision;
   font-size: 20px;
   letter-spacing: -1px;color: #444;
