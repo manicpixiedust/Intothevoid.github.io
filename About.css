@@ -70,7 +70,7 @@ h1 {
 }*/
 
 p {
-  font-family:Arial;
+  font-family:monospace;
   font-weight: bold;
   text-rendering: geometricPrecision;
   font-size: 20px;
