@@ -39,7 +39,7 @@ position: fixed; top: 0; width: 100%;
 display: flex;
 justify-content: space-between;
 border: 15px solid pink;
-border-image-source: url(./giphy.gif);
+border-image-source: url(./photo-1534796636912-3b95b3ab5986.jpg);
 border-image-slice: 40 50;
 border-image-repeat: round;
 z-index: 500
