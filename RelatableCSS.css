@@ -218,7 +218,7 @@ z-index: 500
         border-radius: 12px;
         transition-duration: 0.4s;
         cursor: pointer;
-        background-image: url("./giphy-1 copy.gif");
+        background-image: url("./giphy-2.gif");
       }
       
 
@@ -288,7 +288,7 @@ div {
     text-decoration-line: none;
     font-style: italic;
     color: cornsilk;
-    background-image: url("./giphy-1 copy.gif");
+    background-image: url("./giphy-2.gif");
     background-size:40px;
     background-repeat: no-repeat;
 
