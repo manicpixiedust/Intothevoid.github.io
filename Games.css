@@ -9,7 +9,7 @@ html
 }
 
 #gam1 {
-  font-family: fantasy;
+  font-family: monospace;
   text-align: center;
 }
 
@@ -228,7 +228,7 @@ h2 {
 }
 
 .paragraph1 {
-  font-family: fantasy;
+  font-family: monospace;
   font-size: large;
   text-align: center;
   border-style: inherit;
